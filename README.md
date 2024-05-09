@@ -35,6 +35,8 @@ This pizza sales dataset has 12 relevant features:
 •	pizza_name: Name of the pizza as shown in the menu
 
 
+# sql skill- join, window function,aggregate function,where/having clause, order by , etc.
+
 **Business Tasks**
 
 1. Find the different KPIs
